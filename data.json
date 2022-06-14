@@ -1,0 +1,11 @@
+{
+  "completedAreaHeader": "## Log",
+  "removeExpression": "",
+  "appendDateFormat": "MM-DD(ddd)",
+  "incompleteTaskValues": "",
+  "supportCanceledTasks": true,
+  "rightClickComplete": false,
+  "rightClickMove": false,
+  "rightClickReset": false,
+  "rightClickToggleAll": false
+}
